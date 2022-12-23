@@ -85,6 +85,7 @@ export const authSlice = createSlice({
         email: "",
         registerStatus: "",
         registerError: "",
+        loginError:""
       };
     },
   },
